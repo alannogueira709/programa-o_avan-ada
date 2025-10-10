@@ -1,0 +1,4 @@
+ID;Nome;Latitude;Longitude
+#1;Natal - Viaduto de Ponta Negra;-5.8483;
+#2;Mossoro - Centro;-5.1920;-37.3426
+#3;Parnamirim;-5.8921;-35.2570

@@ -1,0 +1,5 @@
+ID;Nome;Extremidade 1;Extremidade 2;Comprimento
+&101A;BR101;#1;#1A;7.8
+&226A;BR226;#1A;#5;16.8
+&307A;RN307;#1Z;#7;4.4
+&160C;RN160;#5;#95;52.4
